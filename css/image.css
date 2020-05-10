@@ -1,0 +1,18 @@
+#profile {
+  width: 150px;
+  height: 150px;
+}
+.link {
+  width: 40px;
+  height: 40px;
+}
+@media (min-width: 700px) {
+  #profile {
+    width: 400px;
+    height: 400px;
+  }
+  .link {
+    width: 64px;
+    height: 64px;
+  }
+}
