@@ -6,7 +6,7 @@
   width: 40px;
   height: 40px;
 }
-@media (min-width: 700px) {
+@media (min-width: 770px) {
   #profile {
     width: 400px;
     height: 400px;
