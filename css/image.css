@@ -2,17 +2,12 @@
   width: 150px;
   height: 150px;
 }
-.link {
-  width: 40px;
-  height: 40px;
+.fab {
+  color: black;
 }
 @media (min-width: 770px) {
   #profile {
     width: 400px;
     height: 400px;
-  }
-  .link {
-    width: 64px;
-    height: 64px;
   }
 }
